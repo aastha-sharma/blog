@@ -1,0 +1,17 @@
+.left{
+float:left;
+height:200px;
+width:52%;
+}
+.right{
+float:left;
+height:200px;
+width:48%;
+}
+.right img{
+float:left;
+margin-top:100px;
+}
+.right img:hover{
+-webkit-transform:translate(40px,40px);
+}
